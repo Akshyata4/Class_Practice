@@ -1,0 +1,18 @@
+h1{
+    color: lightsalmon;
+}
+
+p{
+    color: olive;
+    
+}
+
+body{
+    background-color: lightcyan;
+}
+button{
+    color: lightpink;
+    background-color: black;
+    border-radius: 7%;
+    border: 2px;
+}
